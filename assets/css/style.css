@@ -4,9 +4,9 @@ body{
 	background-repeat: repeat;
 }
 
-.navbar-default{
+/* .navbar-default{
 	height: 35px;
-}
+} */
 .navbar-default .navbar-brand{
 	background-color: #4aaaa5;
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -24,12 +24,13 @@ body{
 }
 
 .mynav-head{
-	font-size: 20px;
+	font-size: 12px;
+	float: left;
 }
 
-.mynav-head:hover{
+/* .mynav-head:hover{
 	background-color: #666666;
-}
+} */
 .content-space{
 	margin-left: -15px;
 	margin-right: -10px;
@@ -45,6 +46,7 @@ body{
 	background-color: #ffffff;
 	padding: 20px;
 	border: 3px solid #cccccc;	
+	margin-bottom: 100px;
 }
 
 .subHeading{
@@ -93,9 +95,10 @@ body{
 }
 
 #icon1, #icon2, #icon3 {
-	width: 75px;
-	height: 75px;
+	width: 60px;
+	height: 60px;
 	margin: 5px;
+	float: left;
 }
 
 #icon1:hover, #icon2:hover, #icon3:hover {
@@ -114,13 +117,13 @@ body{
 }
 
 
-#portfoliopic{
+/* #portfoliopic{
 	height: 300px;
 	width: 600px;
 	padding: 20px;
 	display: block;
 	margin:5px 10px 5px 50px;
-}
+} */
 
 footer{
 	width: 100%;

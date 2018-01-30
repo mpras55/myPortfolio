@@ -143,3 +143,39 @@ footer{
 	font-size: 14px;
 	margin-left: -15px;
 }
+
+@media only screen and (max-width: 780px){
+	.navbar-default .navbar-brand{
+		background-color: #4aaaa5;
+		font-family: 'Georgia', Times, 'Times New Roman', serif;
+		font-size: 24px;
+		font-weight: bold;
+		color:#ffffff;
+	}
+
+	.navbar-default .navbar-brand:hover {
+		background-color: #4aaaa5;
+		font-family: 'Georgia', Times, 'Times New Roman', serif;
+		font-size: 24px;
+		font-weight: bold;
+		color:#ffffff;
+	}
+}
+
+@media only screen and (max-width: 640px){
+	.navbar-default .navbar-brand{
+		background-color: #4aaaa5;
+		font-family: 'Georgia', Times, 'Times New Roman', serif;
+		font-size: 20px;
+		font-weight: bold;
+		color:#ffffff;
+	}
+
+	.navbar-default .navbar-brand:hover {
+		background-color: #4aaaa5;
+		font-family: 'Georgia', Times, 'Times New Roman', serif;
+		font-size: 20px;
+		font-weight: bold;
+		color:#ffffff;
+	}
+}
